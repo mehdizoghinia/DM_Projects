@@ -1,4 +1,4 @@
-# DM_Projects
+# DM_Project
 
 This is my final project in the course of data mining taught by Prof. Butler at university of Bishop's. 
 
