@@ -27,6 +27,7 @@ outcome:
 isDefault – did the customer pay back (isDefault=0) or not pay back (isDefault=1)?
 
 
+--------------------------------------------------------
 Which algorithm did you use and why?
 
 In this dataset, we use some classifiers such as “SVM”, “KNearestNeighbor”, “DecisionTree”,
