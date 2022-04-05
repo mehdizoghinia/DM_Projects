@@ -5,7 +5,9 @@ This is my final project in the course of data mining taught by Prof. Butler at 
 
 
 
-The goal is to build a model that predicts a probability that a given customer will default on a loan
+The goal is to build a model that predicts a probability that a given customer will default on a loan.
+
+
 A customer profile consists of a list of bank transactions preceding the loan request. Each transaction is either a debit
 (money going out of account, negative values) or credit (money coming into account, positive values).
 Customer profile (attributes) (15000 customers total):
